@@ -9,6 +9,10 @@ public class Test1 {
 		System.out.println("Test Case 2");
 		
 		System.out.println("Test Case 3");
+		
+		System.out.println("Test Case 4");
+		
+		int i = 0;
 
 	}
 
